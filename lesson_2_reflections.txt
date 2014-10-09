@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+1. git creates folder .git in a folder
+2. git creates it this folder initial empty repository
+I need it to prepare it to do version control of the folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+
